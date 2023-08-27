@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "prework-study-guide",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "../../Desktop/assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "prework-study-guide"
+	}
+}
