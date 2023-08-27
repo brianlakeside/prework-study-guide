@@ -3,7 +3,7 @@
 
 ## Description
 
-PThis Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, git, and JavaScript.
+This Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, git, and JavaScript.
 
 - The motivation and reason of/for this project is to create a reference and build on with future learnings and objectives.
 
